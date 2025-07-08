@@ -1,6 +1,6 @@
 ﻿# c-code-lab# c-code-lab
 
-Welcome to **c-code-lab**, my personal C programming practice repository where I’m following and practicing concepts from the *College Wallah* Complete C Course.
+Welcome to **c-code-lab**, my personal repository for practicing and improving my C programming skills.
 
 ---
 
